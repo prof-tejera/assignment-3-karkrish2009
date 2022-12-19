@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 //import { TimerContext } from './TimerProvider';
 //import { TimerContext } from './TimerProvider';
 import Button from './Button';
