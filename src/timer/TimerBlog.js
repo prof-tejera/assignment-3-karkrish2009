@@ -1,4 +1,4 @@
-import { useContext } from 'react';
+import React, { useContext } from 'react';
 import { TimerContext } from './TimerProvider';
 import Timer from './Timer';
 
