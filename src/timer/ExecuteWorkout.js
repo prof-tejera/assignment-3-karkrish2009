@@ -1,6 +1,6 @@
 import { useContext, useState, useEffect, useRef } from 'react';
-import TimerProvider, { TimerContext } from './TimerProvider';
-import Timer from './Timer';
+import { TimerContext } from './TimerProvider';
+//import Timer from './Timer';
 import React from 'react';
 import Button from './Button';
 import DisplayClock from './DisplayClock';
@@ -16,7 +16,7 @@ const Workout = () => {
   //const [indexToRemove, setIndexToRemove] = useState(0);
   //if (selectedTimerId) return <Timer timerId = {selectedTimerId} />;
   const [activeIndex, setActiveIndex] = useState(0);
-  const [paused, setPaused] = useState(true);
+  //const [paused, setPaused] = useState(true);
   const [phase, setPhase] = useState("");
   const [timerOn, setTimerOn] = useState(false);
 

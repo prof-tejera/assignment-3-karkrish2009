@@ -1,5 +1,5 @@
-import { useContext, useState } from 'react';
-import TimerProvider, { TimerContext } from './TimerProvider';
+import { useContext } from 'react';
+import { TimerContext } from './TimerProvider';
 import Timer from './Timer';
 import React from 'react';
 

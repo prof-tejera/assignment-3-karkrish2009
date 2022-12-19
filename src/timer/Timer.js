@@ -1,9 +1,9 @@
-import { useEffect, useState, useRef, useContext } from 'react';
-import TimerProvider, { TimerContext } from './TimerProvider';
+import { useEffect, useState, useRef } from 'react';
+//import { TimerContext } from './TimerProvider';
 //import { TimerContext } from './TimerProvider';
 import Button from './Button';
 import DisplayClock from './DisplayClock';
-import React, {Component} from 'react';
+import React from 'react';
 
 
 
