@@ -1,9 +1,10 @@
 //import './App.css';
+import React from 'react';
 import CreateWorkOut from './timer/TimerBlog';
 import ExecuteWorkout from './timer/ExecuteWorkout';
 import NavBar from './nav/NavBar';
 import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
-import React from 'react';
+
 //mport { ApolloClient, InMemoryCache, ApolloProvider, gql } from '@apollo/client';
 //import { ApolloClient, InMemoryCache, ApolloProvider } from 'apollo-client';
 //import { GraphQLClient } from 'graphql-request';
