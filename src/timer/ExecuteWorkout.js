@@ -1,7 +1,7 @@
 import { useContext, useState, useEffect, useRef } from 'react';
 import { TimerContext } from './TimerProvider';
 //import Timer from './Timer';
-import React from 'react';
+
 import Button from './Button';
 import DisplayClock from './DisplayClock';
 

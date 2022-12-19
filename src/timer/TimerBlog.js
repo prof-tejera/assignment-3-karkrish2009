@@ -1,7 +1,6 @@
 import { useContext } from 'react';
 import { TimerContext } from './TimerProvider';
 import Timer from './Timer';
-import React from 'react';
 
 
 const CreateWorkOut = () => {

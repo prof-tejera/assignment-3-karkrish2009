@@ -1,5 +1,4 @@
 //import './App.css';
-import React from 'react';
 import CreateWorkOut from './timer/TimerBlog';
 import ExecuteWorkout from './timer/ExecuteWorkout';
 import NavBar from './nav/NavBar';
